@@ -90,6 +90,7 @@ public class CreateMyaccount {
 		System.out.println("log out My account");
 		System.out.println("------ finished !!---------");
 	}
+	
 	@AfterClass
 	public void afterClass() {
 		System.out.println("----------AfterTest----------");
