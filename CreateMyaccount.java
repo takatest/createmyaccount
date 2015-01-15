@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeTest;
 
 import RegisterdomainName.LogoutPage;
 
-
+//create my account
 public class CreateMyaccount {
 
 	private FirefoxDriver 					driver;					// firefox driver
